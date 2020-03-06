@@ -1,0 +1,5 @@
+# CIMG2_Interproscan
+ Results of Interproscan and GO search 3_10_2020
+ Interproscan was run on the CIMG2 predicted proteins from http://cluster.hpcc.ucr.edu/~jstajich/projects/Coccidioides/RS_annotation/2019-12/.
+ 
+ The apps run were GO (biological Processes, I think) ProSiteProfiles,CDD,PRINTS,ProSitePatterns and Pfam.  The TSV, XML and gff3 files are here.  The data have not been processed - i.e. no filtering for p values or anything like that has been done.
